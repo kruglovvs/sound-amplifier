@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YXIQALOM
 
 [Document2]
-DocumentPath=Sheet.SchDoc
+DocumentPath=principal.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
