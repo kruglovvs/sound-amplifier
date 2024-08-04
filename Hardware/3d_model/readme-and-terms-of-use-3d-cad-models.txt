@@ -7,7 +7,7 @@ RU   Ваша згрузка от 08/04/2024 с PARTcommunity/PARTserver/3Dfindi
 
        
 	   
-       SE_3D_2020, bene_inox_212409-2,2X19, bene_inox_212409-2,2X19.par
+       SE_3D_2020, bene_inox_412405-2,2X9,5, bene_inox_412405-2,2X9,5.par
 
        Указания по использованию:
 
