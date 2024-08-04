@@ -1,0 +1,395 @@
+Транслятор STEP в Solid Edge
+Дата: суббота,Август 03,2024 11:26
+Исходный файл: C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\PCB.step
+Автор: Author
+Организация: Open CASCADE
+Исходная система: Open CASCADE 6.8
+
+Оборудование:
+Процессор: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  
+Операционная система: Windows 10 Professional
+Установленная память: 17.92 GB
+
+Информация о программе
+Версия Parasolid: 34.0.153
+Версия PSBodyShop: 34.0.110
+Версия Step Adapter: 9.0.104
+Версия Solid Edge: 222.00.14.003 x64
+
+Параметры импорта STEP
+Импорт — фасетные тела: Включить
+Импорт — проверить тела: Выключить
+Импорт — кривые: Включить
+Импорт — не сохранено: Включить
+Импорт — множество тел как одна деталь: Включить
+Импорт — сшить поверхности: Включить
+Импорт — булевы тела: Включить
+Создание исходного тела: Включить
+Упрощение геометрии: Включить
+Импорт — наложить кривые: Включить
+Импорт — диск: C:
+Импорт — сшить поверхности: Включить
+Импорт — поверхности: Включить
+Импорт — папка вывода: C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case
+Импорт — разрешить папку вывода по умолчанию: Включить
+Импортировать атрибуты модели: Выключить
+Импортировать как внутренние компоненты: Выключить
+Импорт — папка: 
+
+Преобразование в типы данных Parasolid...
++Сборка начата: 1
++Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\PCB_1.asm
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\BoardPCB_0.asm
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\Open CASCADE STEP translator 6.8 1.1.1_0.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\XP1PCB_0.asm
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\43045-0821--3DModel-STEP-56544_0.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\XS2PCB_0.asm
+|  |--+Сборка начата: 3
+|  |--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\Conn_Neutrik_NMJ4HFD2_eec_0.asm
+|  |  |--+Сборка начата: 4
+|  |  |--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\1_0.asm
+|  |  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\1_0.par
+|  |  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\3_0.par
+|  |  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\4_0.par
+|  |  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\2_0.par
+|  |  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\7_0.par
+|  |  |--+Всего деталей: 36
+|  |  |--+Сборок: 0
+|  |  |--+Твердых тел: 36
+|  |  |--+Листовых тел: 0
+|  |  |--+Сборка завершена: 4
+|  |--+Всего деталей: 1
+|  |--+Сборок: 1
+|  |--+Твердых тел: 0
+|  |--+Листовых тел: 0
+|  |--+Сборка завершена: 3
+|--+Всего деталей: 1
+|--+Сборок: 1
+|--+Твердых тел: 0
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\C1PCB_0.asm
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\CAPF_5.5x9.0x10.0_TxHxW_7.5mmLS_0.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\C6PCB_0.asm
+|  |--+Сборка начата: 3
+|  |--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Cap_electrolitic_radial_4x7_0.asm
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Cap_electrolitic_radial_4x7_Case_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Cap_electrolitic_radial_4x7_Minus_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Cap_electrolitic_radial_4x7_Top_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Cap_electrolitic_radial_4x7_Pins_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Cap_electrolitic_radial_4x7_Bottom_0.par
+|  |--+Всего деталей: 14
+|  |--+Сборок: 0
+|  |--+Твердых тел: 14
+|  |--+Листовых тел: 0
+|  |--+Сборка завершена: 3
+|--+Всего деталей: 1
+|--+Сборок: 1
+|--+Твердых тел: 0
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\C2PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\CAPF_5.5x9.0x10.0_TxHxW_7.5mmLS.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\C3PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\CAPF_5.5x9.0x10.0_TxHxW_7.5mmLS.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\C4PCB_0.asm
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Cap-EL(12_5x25-5)T_0.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\C5PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Cap-EL(12_5x25-5)T.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\R1PCB_0.asm
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Res_1-8w_1_0_0.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\R2PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Res_1-8w_1_0.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\R3PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Res_1-8w_1_0.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\R4PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Res_1-8w_1_0.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\R5PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Res_1-8w_1_0.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\R6PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Res_1-8w_1_0.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\R13PCB_0.asm
+|  |--+Сборка начата: 3
+|  |--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-1W_0.asm
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-1W__W002_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-1W__W003_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-1W__W004_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-1W__W005_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-1W__W006_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-1W_Fusion_0.par
+|  |--+Всего деталей: 14
+|  |--+Сборок: 0
+|  |--+Твердых тел: 14
+|  |--+Листовых тел: 0
+|  |--+Сборка завершена: 3
+|--+Всего деталей: 1
+|--+Сборок: 1
+|--+Твердых тел: 0
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\VT1PCB_0.asm
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\TO-92_line_pin_2_5mm_pitch_0.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\VT2PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\TO-92_line_pin_2_5mm_pitch.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\XS1PCB_0.asm
+|  |--+Сборка начата: 3
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\Conn_Neutrik_NMJ4HFD2_eec.asm
+|  |--+Всего деталей: 0
+|  |--+Сборок: 0
+|  |--+Твердых тел: 0
+|  |--+Листовых тел: 0
+|  |--+Сборка завершена: 3
+|--+Всего деталей: 0
+|--+Сборок: 0
+|--+Твердых тел: 0
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\VT8PCB_0.asm
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\TO-220-15_(Multiwatt_15)_solid_1.par
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\TO-220-15_(Multiwatt_15)_solid.par
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\TO-220-15_(Multiwatt_15)_solid_2.par
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-TO-3P-3LD_0.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\VT7PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-TO-3P-3LD.par
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\TO-220-15_(Multiwatt_15)_solid.par
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\TO-220-15_(Multiwatt_15)_solid.par
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\TO-220-15_(Multiwatt_15)_solid.par
+|--+Всего деталей: 4
+|--+Сборок: 0
+|--+Твердых тел: 4
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\VT6PCB_0.asm
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-TO-126_(SOT32)_Gold_PCB_0.par
+|--+Всего деталей: 10
+|--+Сборок: 0
+|--+Твердых тел: 10
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\VT5PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-TO-126_(SOT32)_Gold_PCB.par
+|--+Всего деталей: 5
+|--+Сборок: 0
+|--+Твердых тел: 5
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\VT3PCB_0.asm
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-TO3B_(TO220)_1_0.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\VT4PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-TO-126_(SOT32)_Gold_PCB.par
+|--+Всего деталей: 5
+|--+Сборок: 0
+|--+Твердых тел: 5
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\R12PCB_0.asm
+|  |--+Сборка начата: 3
+|  |--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-2W_0.asm
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-2W_RES_2W002_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-2W_RES_2W004_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-2W_Fusion_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-2W_RES_2W005_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-2W_RES_2W006_0.par
+|  |  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-2W_RES_2W003_0.par
+|  |--+Всего деталей: 14
+|  |--+Сборок: 0
+|  |--+Твердых тел: 14
+|  |--+Листовых тел: 0
+|  |--+Сборка завершена: 3
+|--+Всего деталей: 1
+|--+Сборок: 1
+|--+Твердых тел: 0
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\R11PCB_0.asm
+|  |--+Сборка начата: 3
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-RES-2W.asm
+|  |--+Всего деталей: 0
+|  |--+Сборок: 0
+|  |--+Твердых тел: 0
+|  |--+Листовых тел: 0
+|  |--+Сборка завершена: 3
+|--+Всего деталей: 0
+|--+Сборок: 0
+|--+Твердых тел: 0
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\R10PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Res_1-8w_1_0.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\R9PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Res_1-8w_1_0.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\R7PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\User_Library-Res_1-8w_1_0.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\R8PCB_0.asm
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\pot_3299W-1-103RLF_0.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\C8PCB_0.asm
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\Cap,_film,_7.3x5.2x7x5LS_2.par
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\Cap,_film,_7.3x5.2x7x5LS_3.par
+|  |--+Создание детали SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\Cap,_film,_7.3x5.2x7x5LS_4.par
+|--+Всего деталей: 6
+|--+Сборок: 0
+|--+Твердых тел: 6
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\C7PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\Cap,_film,_7.3x5.2x7x5LS.par
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\Cap,_film,_7.3x5.2x7x5LS.par
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\Cap,_film,_7.3x5.2x7x5LS.par
+|--+Всего деталей: 3
+|--+Сборок: 0
+|--+Твердых тел: 3
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\C9PCB_0.asm
+|  |--+Повторное использование файла C:\Users\Valenokks\Documents\GitHub\sound-amplifier\Hardware\Case\CAPF_5.5x9.0x10.0_TxHxW_7.5mmLS.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
++Всего деталей: 34
++Сборок: 34
++Твердых тел: 0
++Листовых тел: 0
++Сборка завершена: 1
+Процесс преобразования завершен
+Общее необходимое время для преобразования и постпроцессора:00 : 00 : 18
