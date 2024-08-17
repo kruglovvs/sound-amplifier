@@ -1,5 +1,5 @@
 ﻿
-RU   Ваша згрузка от 08/04/2024 с PARTcommunity/PARTserver/3Dfindit.com:
+RU   Ваша згрузка от 08/17/2024 с PARTcommunity/PARTserver/3Dfindit.com:
 
        Уважаемый пользователь,
        
@@ -7,7 +7,7 @@ RU   Ваша згрузка от 08/04/2024 с PARTcommunity/PARTserver/3Dfindi
 
        
 	   
-       SE_3D_2020, bene_inox_412405-2,2X9,5, bene_inox_412405-2,2X9,5.par
+       SE_3D_2020, SFS FN 405 146084 Flachkopfschraube ISO 7045 Stahl 4.8 verzinkt blau M2.5x6-H, SFS FN 405 146084 Flachkopfschraube ISO 7045 Stahl 4_8 verzinkt blau M2_5x6-H.par
 
        Указания по использованию:
 
