@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=VT1 Old Footprint=TO92_3 New Footprint=TO92_3FB
-Change Component Footprint: Designator=VT2 Old Footprint=TO92_3 New Footprint=TO92_3FB
-Added Member To Class: ClassName=Sheet Member=Component XP1 CONN
-Added Room: Name=Sheet
