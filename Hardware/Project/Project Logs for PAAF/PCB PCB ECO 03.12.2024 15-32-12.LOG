@@ -1,0 +1,5 @@
+Added Component: Designator=R8(RES: 0805)
+Added Component: Designator=R14(RES: 2512)
+Added Component: Designator=R15(RES: 2512)
+Added Member To Class: ClassName=principal Member=Component R7 POT
+Added Member To Class: ClassName=principal Member=Component VT4 BD139G
