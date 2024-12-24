@@ -1,0 +1,366 @@
+Транслятор STEP в Solid Edge
+Дата: четверг,Декабрь 05,2024 03:17
+Исходный файл: C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\PCB.step
+Автор: Author
+Организация: Open CASCADE
+Исходная система: Open CASCADE 6.8
+
+Оборудование:
+Процессор: AMD PRO A10-9700B R7, 10 COMPUTE CORES 4C+6G   
+Операционная система: Windows 10
+Установленная память: 18.91 GB
+
+Информация о программе
+Версия Parasolid: 34.0.153
+Версия PSBodyShop: 34.0.110
+Версия Step Adapter: 9.0.92
+Версия Solid Edge: 222.00.00.132 x64
+
+Параметры импорта STEP
+Импорт — фасетные тела: Включить
+Импорт — проверить тела: Выключить
+Импорт — кривые: Включить
+Импорт — не сохранено: Включить
+Импорт — множество тел как одна деталь: Включить
+Импорт — сшить поверхности: Включить
+Импорт — булевы тела: Включить
+Создание исходного тела: Включить
+Упрощение геометрии: Включить
+Импорт — наложить кривые: Включить
+Импорт — диск: C:
+Импорт — сшить поверхности: Включить
+Импорт — поверхности: Включить
+Импорт — папка вывода: C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step
+Импорт — разрешить папку вывода по умолчанию: Включить
+Импортировать атрибуты модели: Выключить
+Импортировать как внутренние компоненты: Выключить
+Импорт — папка: 
+
+Преобразование в типы данных Parasolid...
++Сборка начата: 1
++Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\PCB.asm
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\Board.asm
+|  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\Open CASCADE STEP translator 6.8 1.1.1.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R15.asm
+|  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_2512_r.par
+|--+Всего деталей: 14
+|--+Сборок: 0
+|--+Твердых тел: 14
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R14.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_2512_r.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R8.asm
+|  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_0805_r.par
+|--+Всего деталей: 14
+|--+Сборок: 0
+|--+Твердых тел: 14
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R1.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_0805_r.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R2.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_0805_r.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R3.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_0805_r.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R4.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_0805_r.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R5.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_0805_r.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R6.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_0805_r.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R9.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_0805_r.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R10.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_0805_r.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R11.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_2512_r.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R12.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_2512_r.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R13.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\chip_2512_r.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\XP1.asm
+|  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\43045-0821--3DModel-STEP-56544.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\XS2.asm
+|  |--+Сборка начата: 3
+|  |--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\Conn_Neutrik_NMJ4HFD2_eec.asm
+|  |  |--+Сборка начата: 4
+|  |  |--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\1.asm
+|  |  |  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\1.par
+|  |  |  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\3.par
+|  |  |  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\4.par
+|  |  |  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\2.par
+|  |  |  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\7.par
+|  |  |--+Всего деталей: 36
+|  |  |--+Сборок: 0
+|  |  |--+Твердых тел: 36
+|  |  |--+Листовых тел: 0
+|  |  |--+Сборка завершена: 4
+|  |--+Всего деталей: 1
+|  |--+Сборок: 1
+|  |--+Твердых тел: 0
+|  |--+Листовых тел: 0
+|  |--+Сборка завершена: 3
+|--+Всего деталей: 1
+|--+Сборок: 1
+|--+Твердых тел: 0
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\C1.asm
+|  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\SW3dPS-0805_SMD_Capacitor.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\C6.asm
+|  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\User_Library-AVX_D_CASE.par
+|--+Всего деталей: 4
+|--+Сборок: 0
+|--+Твердых тел: 4
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\C2.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\SW3dPS-0805_SMD_Capacitor.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\C3.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\SW3dPS-0805_SMD_Capacitor.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\C4.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\User_Library-AVX_D_CASE.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\C5.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\User_Library-AVX_D_CASE.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\VT1.asm
+|  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\TO-92_line_pin_2_5mm_pitch.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\VT2.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\TO-92_line_pin_2_5mm_pitch.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\XS1.asm
+|  |--+Сборка начата: 3
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\Conn_Neutrik_NMJ4HFD2_eec.asm
+|  |--+Всего деталей: 0
+|  |--+Сборок: 0
+|  |--+Твердых тел: 0
+|  |--+Листовых тел: 0
+|  |--+Сборка завершена: 3
+|--+Всего деталей: 0
+|--+Сборок: 0
+|--+Твердых тел: 0
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\VT8.asm
+|  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\TO-220-15_(Multiwatt_15)_solid.par
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\TO-220-15_(Multiwatt_15)_solid.par
+|  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\TO-220-15_(Multiwatt_15)_solid_0.par
+|  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\User_Library-TO-3P-3LD.par
+|--+Всего деталей: 7
+|--+Сборок: 0
+|--+Твердых тел: 7
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\VT7.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\User_Library-TO-3P-3LD.par
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\TO-220-15_(Multiwatt_15)_solid.par
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\TO-220-15_(Multiwatt_15)_solid.par
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\TO-220-15_(Multiwatt_15)_solid.par
+|--+Всего деталей: 4
+|--+Сборок: 0
+|--+Твердых тел: 4
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\VT6.asm
+|  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\User_Library-TO-126_(SOT32)_Gold_PCB.par
+|--+Всего деталей: 10
+|--+Сборок: 0
+|--+Твердых тел: 10
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\VT5.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\User_Library-TO-126_(SOT32)_Gold_PCB.par
+|--+Всего деталей: 5
+|--+Сборок: 0
+|--+Твердых тел: 5
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\VT4.asm
+|  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\User_Library-TO3B_(TO220)_1.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\VT3.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\User_Library-TO-126_(SOT32)_Gold_PCB.par
+|--+Всего деталей: 5
+|--+Сборок: 0
+|--+Твердых тел: 5
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\R7.asm
+|  |--+Создание детали SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\pot_3299W-1-103RLF.par
+|--+Всего деталей: 2
+|--+Сборок: 0
+|--+Твердых тел: 2
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\C8.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\SW3dPS-0805_SMD_Capacitor.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\C7.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\SW3dPS-0805_SMD_Capacitor.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
+|--+Сборка начата: 2
+|--+Создание сборки SE C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\C9.asm
+|  |--+Повторное использование файла C:\Users\Professional\Documents\GitHub\sound-amplifier\Hardware\new_pcb_step\SW3dPS-0805_SMD_Capacitor.par
+|--+Всего деталей: 1
+|--+Сборок: 0
+|--+Твердых тел: 1
+|--+Листовых тел: 0
+|--+Сборка завершена: 2
++Всего деталей: 36
++Сборок: 36
++Твердых тел: 0
++Листовых тел: 0
++Сборка завершена: 1
+Процесс преобразования завершен
+Общее необходимое время для преобразования и постпроцессора:00 : 00 : 25

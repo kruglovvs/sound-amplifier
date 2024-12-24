@@ -1,0 +1,240 @@
+Added Component: Designator=C1(CAP: 0805)
+Added Component: Designator=C2(CAP: 0805)
+Added Component: Designator=C3(CAP: 0805)
+Added Component: Designator=C4(CAP: TANTAL-D)
+Added Component: Designator=C5(CAP: TANTAL-D)
+Added Component: Designator=C6(CAP: TANTAL-D)
+Added Component: Designator=C7(CAP: 0805)
+Added Component: Designator=C8(CAP: 0805)
+Added Component: Designator=C9(CAP: 0805)
+Added Component: Designator=R1(RES: 0805)
+Added Component: Designator=R2(RES: 0805)
+Added Component: Designator=R3(RES: 0805)
+Added Component: Designator=R4(RES: 0805)
+Added Component: Designator=R5(RES: 0805)
+Added Component: Designator=R6(RES: 0805)
+Added Component: Designator=R7(POT_3296W)
+Added Component: Designator=R8(RES: 0805)
+Added Component: Designator=R9(RES: 0805)
+Added Component: Designator=R10(RES: 0805)
+Added Component: Designator=R11(RES: 2512)
+Added Component: Designator=R12(RES: 2512)
+Added Component: Designator=R13(RES: 2512)
+Added Component: Designator=R14(RES: 2512)
+Added Component: Designator=R15(RES: 2512)
+Added Component: Designator=VT1(TO92_3FB)
+Added Component: Designator=VT2(TO92_3FB)
+Added Component: Designator=VT3(TO126_3)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Base Voltage (VCBO)"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Breakdown Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Saturation Voltage"; Value = "500mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Voltage (VCEO)"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitter Base Voltage (VEBO)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.04mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hFE Min"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Collector Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "1.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "354669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "1.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8541290080, 8541290080|8541290080, 8541290080|8541290080|8541290080, 8541290080|8541290080|8541290080|8541290080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "4.535924g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.66mm"; VariantName = "[No Variations]"
+Added Component: Designator=VT4(TO220_3)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Base Voltage (VCBO)"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Breakdown Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Saturation Voltage"; Value = "500mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Voltage (VCEO)"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitter Base Voltage (VEBO)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.04mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hFE Min"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Collector Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "1.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "354669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "1.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8541290080, 8541290080|8541290080, 8541290080|8541290080|8541290080, 8541290080|8541290080|8541290080|8541290080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "4.535924g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.66mm"; VariantName = "[No Variations]"
+Added Component: Designator=VT5(TO126_3)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Base Voltage (VCBO)"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Breakdown Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Saturation Voltage"; Value = "500mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Voltage (VCEO)"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitter Base Voltage (VEBO)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.04mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hFE Min"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Collector Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "1.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "354669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "1.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8541290080, 8541290080|8541290080, 8541290080|8541290080|8541290080, 8541290080|8541290080|8541290080|8541290080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "4.535924g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.66mm"; VariantName = "[No Variations]"
+Added Component: Designator=VT6(TO126_3)
+Added Component: Designator=VT7(TO247_3)
+Added Component: Designator=VT8(TO247_3)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Base Voltage (VCBO)"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Breakdown Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Saturation Voltage"; Value = "500mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Voltage (VCEO)"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitter Base Voltage (VEBO)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.04mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hFE Min"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Collector Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "1.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "354669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "1.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8541290080, 8541290080|8541290080, 8541290080|8541290080|8541290080, 8541290080|8541290080|8541290080|8541290080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "4.535924g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.66mm"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(MOLEX_430450821)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC2_2 Pin=C4-2
+Added Pin To Net: NetName=NetC3_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetC7_2 Pin=R7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R7-3
+Added Pin To Net: NetName=NetR4_2 Pin=VT1-1
+Added Pin To Net: NetName=NetC7_1 Pin=VT1-2
+Added Pin To Net: NetName=NetR2_2 Pin=VT1-3
+Added Pin To Net: NetName=NetR4_2 Pin=VT2-1
+Added Pin To Net: NetName=NetC3_1 Pin=VT2-2
+Added Pin To Net: NetName=NetR5_1 Pin=VT2-3
+Added Pin To Net: NetName=NetR7_1 Pin=VT3-1
+Added Pin To Net: NetName=NetR8_2 Pin=VT3-2
+Added Pin To Net: NetName=NetR8_2 Pin=VT3-3
+Added Pin To Net: NetName=NetC3_1 Pin=VT4-1
+Added Pin To Net: NetName=NetC7_2 Pin=VT4-2
+Added Pin To Net: NetName=NetC7_1 Pin=VT4-3
+Added Pin To Net: NetName=NetR11_1 Pin=VT5-1
+Added Pin To Net: NetName=NetR9_1 Pin=VT5-2
+Added Pin To Net: NetName=NetR8_2 Pin=VT5-3
+Added Pin To Net: NetName=NetR12_2 Pin=VT6-1
+Added Pin To Net: NetName=NetC8_2 Pin=VT6-2
+Added Pin To Net: NetName=NetC7_2 Pin=VT6-3
+Added Pin To Net: NetName=NetC2_2 Pin=VT7-1
+Added Pin To Net: NetName=NetR11_1 Pin=VT7-2
+Added Pin To Net: NetName=NetR9_1 Pin=VT7-3
+Added Pin To Net: NetName=NetC3_1 Pin=VT8-1
+Added Pin To Net: NetName=NetR12_2 Pin=VT8-2
+Added Pin To Net: NetName=NetC8_2 Pin=VT8-3
+Added Pin To Net: NetName=NetC1_1 Pin=XP1-1
+Added Pin To Net: NetName=NetC1_1 Pin=XP1-1
+Added Pin To Net: NetName=NetC1_1 Pin=XP1-1
+Added Pin To Net: NetName=GND Pin=XP1-2
+Added Pin To Net: NetName=NetR6_2 Pin=XP1-3
+Added Pin To Net: NetName=GND Pin=XP1-4
+Added Pin To Net: NetName=NetC3_1 Pin=XP1-5
+Added Pin To Net: NetName=GND Pin=XP1-6
+Added Pin To Net: NetName=NetC2_2 Pin=XP1-7
+Added Pin To Net: NetName=GND Pin=XP1-8
+Added Member To Class: ClassName=principal Member=Component C1 Capacitor
+Added Member To Class: ClassName=principal Member=Component C2 Capacitor
+Added Member To Class: ClassName=principal Member=Component C3 Capacitor
+Added Member To Class: ClassName=principal Member=Component C4 Capactor polar
+Added Member To Class: ClassName=principal Member=Component C5 Capactor polar
+Added Member To Class: ClassName=principal Member=Component C6 Capactor polar
+Added Member To Class: ClassName=principal Member=Component C7 Capacitor
+Added Member To Class: ClassName=principal Member=Component C8 Capacitor
+Added Member To Class: ClassName=principal Member=Component C9 Capacitor
+Added Member To Class: ClassName=principal Member=Component R7 POT
+Added Member To Class: ClassName=principal Member=Component VT1 Transistor_PNP
+Added Member To Class: ClassName=principal Member=Component VT2 Transistor_PNP
+Added Member To Class: ClassName=principal Member=Component VT3 BD139G
+Added Member To Class: ClassName=principal Member=Component VT4 BD139G
+Added Member To Class: ClassName=principal Member=Component VT5 BD139G
+Added Member To Class: ClassName=principal Member=Component VT6 Transistor_PNP
+Added Member To Class: ClassName=principal Member=Component VT7 Transistor_PNP
+Added Member To Class: ClassName=principal Member=Component VT8 BD139G
+Added Member To Class: ClassName=principal Member=Component XP1 CONN
+Added Room: Name=principal
